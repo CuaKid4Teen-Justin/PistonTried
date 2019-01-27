@@ -135,9 +135,13 @@ public class Robot extends TimedRobot {
   public void testPeriodic() {
   }
 
+
+  /*
   @Override
   public void openPiston(){
-
+//my buttons aren't working. Idk where to put them
    PistonOpen.whenPressed();  
+
+  */
   }
 }
